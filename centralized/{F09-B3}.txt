@@ -3,9 +3,7 @@ Chu Ying Yu
 Chen Tiankai
 Jing Min Teo
 
-<<<<<<< HEAD
 TK 1 more attempt
 =======
 
 Hello world
->>>>>>> 6da795149c5eae99e6bdaa3c8d01267308107aeb
